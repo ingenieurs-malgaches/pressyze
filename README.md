@@ -3,6 +3,7 @@ PressYze
 
 ## Par l'équipe ByteCoders
 
+![Image not found](http://nabil.zz.mu/images/pressyze.png "Logo du projet PressYze")
 Le code source ci-dessus constitue le Module du projet PRESSYZE de l'equipe de développement BYTECODERS.
 
 Il s'agit d'une application se proposant d'encourager le journalisme citoyen et de permettre d'avoir une vue globale sur les évènements se déroulant sur le sol tunisien.
